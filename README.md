@@ -1,6 +1,6 @@
-# VIP Shakh Portfolio
+# Portfolio
 
-Welcome to **VIP Shakh**'s official portfolio website! This is a personal showcase of my skills, projects, and contact details. The website is built with interactive animations and modern UI elements to provide an engaging user experience.
+The website is built with interactive animations and modern UI elements to provide an engaging user experience.
 
 ## Live Demo
 
